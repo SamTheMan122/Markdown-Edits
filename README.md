@@ -1,7 +1,7 @@
 # CECS 326 Project 1
 
 ### Project Description
-C program that copies the contents of one file to another through interprocess communications using ordinary pipes. Here's a rundown of how to compile and run the program to produce the expected output.
+C program that copies the contents of one file to another through interprocess communications using ordinary pipes. Here's a rundown of how to compile and run the program through VSCode on Windows to produce the expected output.
 
 ### Technologies
 - Windows 11 (directions specifically for Windows, but program should run in any UNIX based system)
