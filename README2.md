@@ -1,14 +1,14 @@
-# CECS 326 Project 3
+# CECS 326 Project 5
 
 ### Project Description
-Python program that simulates Banker's Algorithm
+Python program that implements the First In First Out (FIFO) and Least Recently Used (LRU) page replacement algorithms
 
 ### Technologies
-- Windows 11 (directions specifically for Windows, but program should run in any UNIX based system)
+- Windows 11 
 - Pycharm
 - Python
 
 ### How to Run the Program
 1. Download and unzip the files
-2. Double click on main.py
+2. Double click on pagingPython.py
 
